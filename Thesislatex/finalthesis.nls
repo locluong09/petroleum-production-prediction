@@ -1,0 +1,51 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{$\mathbf{w}$}]\begingroup The learning paremeters for machine learning algorithms\nomeqref {0}
+		\nompageref{xv}
+  \item [{$\mathbf{X}$}]\begingroup The input data for machine learning algorithms\nomeqref {0}
+		\nompageref{xv}
+  \item [{$A$}]\begingroup The area of the needle point\nomeqref {0}
+		\nompageref{xiii}
+  \item [{$a$}]\begingroup The number of angels per unit area\nomeqref {0}
+		\nompageref{xiii}
+  \item [{$b$}]\begingroup  Arps’ decline curve exponent\nomeqref {0}
+		\nompageref{xiii}
+  \item [{$D$}]\begingroup Decline rate\nomeqref {0}\nompageref{xiii}
+  \item [{$N$}]\begingroup The number of angels per needle point\nomeqref {0}
+		\nompageref{xiii}
+  \item [{$y$}]\begingroup Actual value of production rate\nomeqref {0}
+		\nompageref{xv}
+  \item [{AI}]\begingroup Artificial Intelligent\nomeqref {0}
+		\nompageref{xv}
+  \item [{BHP}]\begingroup Bottom Hole Pressure\nomeqref {0}
+		\nompageref{xv}
+  \item [{BHT}]\begingroup Bottom Hole Temperature\nomeqref {0}
+		\nompageref{xv}
+  \item [{CS}]\begingroup Choke Size (Percentage)\nomeqref {0}
+		\nompageref{xv}
+  \item [{DCA}]\begingroup Decline Curve Analysis\nomeqref {0}
+		\nompageref{xv}
+  \item [{DP}]\begingroup Different Pressure in casing\nomeqref {0}
+		\nompageref{xv}
+  \item [{GRU}]\begingroup Gated Recurrent Unit\nomeqref {0}
+		\nompageref{xv}
+  \item [{LGBM}]\begingroup Light Gradient Boosting Machine\nomeqref {0}
+		\nompageref{xv}
+  \item [{LSTM}]\begingroup Long Short Term Memory\nomeqref {0}
+		\nompageref{xv}
+  \item [{MLP}]\begingroup Multi Layers Perceptron\nomeqref {0}
+		\nompageref{xv}
+  \item [{RNN}]\begingroup Recurrent Neural Networks\nomeqref {0}
+		\nompageref{xv}
+  \item [{SEPD}]\begingroup Stretched Exponential Production Decline\nomeqref {0}
+		\nompageref{xv}
+  \item [{THP}]\begingroup Tubing Head Pressure\nomeqref {0}
+		\nompageref{xv}
+  \item [{WHT}]\begingroup Well Head Temperature\nomeqref {0}
+		\nompageref{xv}
+  \item [{XGB}]\begingroup Extreme Gradient Boosting\nomeqref {0}
+		\nompageref{xv}
+
+\end{thenomenclature}

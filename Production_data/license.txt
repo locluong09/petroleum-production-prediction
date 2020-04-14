@@ -1,0 +1,14 @@
+Thank you for your interest in the Volve dataset. Equinor hope you find the dataset useful and that you can apply it in an innovative and useful way.  
+Data publisher: Equinor ASA 
+Data owners: Equinor (operator), ExxonMobil (partner), Bayerngas (partner) and Norwegian Petroleum Directorate (NPD)  
+Published via: https://www.equinor.com/   
+The data is published under Creative Commons Attribution 4.0 International license (CC BY NC SA).
+(https://creativecommons.org/licenses/by-nc-sa/4.0/)
+The data shall not be resold.   
+If shared, the data owners shall be attributed.  
+  
+Disclaimer  
+The users of the information and data are expressly informed that the data provided by Equinor and the former Volve Licence partners is provided on an “as is” basis and may contain errors and omissions. 
+Equinor and former Volve licence partners provide no warranties, expressed or implied, either relating to the content or to the relevance of the data.
+Equinor disclaims any liability for errors and defects associated with the data to the maximum extent permitted by law. 
+Equinor and the former Volve Licence partners shall not be liable for any direct or indirect losses as a result of use of the data or concerning possible infringement of any intellectual property and/or patent rights of a third party.  

@@ -1,0 +1,73 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Classification of production decline curves\relax }}{6}{figure.caption.5}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Processing of using reservoir modeling\relax }}{17}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Location of Volve field\relax }}{18}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Reservoir model of Volve field\relax }}{19}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Production during the period 2008 to 2017\relax }}{20}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Shallow neural networks with one hidden layer\relax }}{30}{figure.caption.12}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Deep feed forward neural networks\relax }}{31}{figure.caption.13}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Recurrent neural network simple architecture\cite {LSTM}\relax }}{32}{figure.caption.14}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Simple stretch of long short term memory\cite {LSTM}\relax }}{33}{figure.caption.15}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Simple stretch of Gated Recurrent Unit\cite {LSTM}\relax }}{34}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Work flow for using machine and deep learning algorithms\relax }}{36}{figure.caption.18}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Detailed work flow for using machine learning and deep learning algorithms\relax }}{37}{figure.caption.19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Production rate prediction versus actual values\relax }}{42}{figure.caption.22}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Oil prediction using time series cross-validation method. \relax }}{43}{figure.caption.23}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Gas prediction using time series cross-validation method. \relax }}{43}{figure.caption.24}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Production rate prediction using shallow neural networks. \relax }}{45}{figure.caption.29}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Production rate prediction using deep neural networks. \relax }}{46}{figure.caption.30}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Production rate prediction using long short term memory. \relax }}{47}{figure.caption.31}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Production rate prediction using gated recurrent unit. \relax }}{47}{figure.caption.32}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Production rate prediction using simple recurrent neural networks. \relax }}{47}{figure.caption.33}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces History production of well F14\relax }}{48}{figure.caption.34}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Comparison of actual values, LSTM and DCA\relax }}{49}{figure.caption.35}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Production prediction on well F1 \relax }}{51}{figure.caption.38}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Production prediction on well F11 \relax }}{52}{figure.caption.39}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Production prediction on well F12 \relax }}{53}{figure.caption.40}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Production prediction on well F14 \relax }}{54}{figure.caption.41}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Production prediction on well F15 \relax }}{55}{figure.caption.42}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Cumulative oil production on F1\relax }}{56}{figure.caption.43}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Cumulative oil production on F11\relax }}{57}{figure.caption.44}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Cumulative oil production on F12\relax }}{57}{figure.caption.45}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Cumulative oil production on F14\relax }}{58}{figure.caption.46}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Cumulative oil production on F15\relax }}{58}{figure.caption.47}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Total production by day from 2008 to 2016\relax }}{59}{figure.caption.49}
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Total cumulative oil production comparison\relax }}{59}{figure.caption.50}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Data before feature engineering\relax }}{67}{figure.caption.53}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Data after feature engineering\relax }}{67}{figure.caption.53}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Box plot of input\relax }}{67}{figure.caption.54}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Box plot of production rate\relax }}{68}{figure.caption.55}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Correlation maxtrix of variables\relax }}{69}{figure.caption.56}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Best five model on oil prediction\relax }}{74}{figure.caption.62}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Best five model on gas prediction\relax }}{74}{figure.caption.63}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces Best five model on water predict\relax }}{74}{figure.caption.64}
+\contentsline {figure}{\numberline {C.4}{\ignorespaces Water prediction using time series cross-validation method. \relax }}{75}{figure.caption.65}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Production prediction on well F1 \relax }}{78}{figure.caption.72}
+\contentsline {figure}{\numberline {D.2}{\ignorespaces Production prediction on well F11 \relax }}{79}{figure.caption.73}
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Production prediction on well F12 \relax }}{79}{figure.caption.74}
+\contentsline {figure}{\numberline {D.4}{\ignorespaces Production prediction on well F14 \relax }}{80}{figure.caption.75}
+\contentsline {figure}{\numberline {D.5}{\ignorespaces Production prediction on well F15 \relax }}{80}{figure.caption.76}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Cumulative gas prediction F1\relax }}{81}{figure.caption.77}
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Cumulative water prediction F1\relax }}{81}{figure.caption.77}
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Cumulative gas prediction F11\relax }}{81}{figure.caption.78}
+\contentsline {figure}{\numberline {E.4}{\ignorespaces Cumulative water prediction F11\relax }}{81}{figure.caption.78}
+\contentsline {figure}{\numberline {E.5}{\ignorespaces Cumulative gas prediction F12\relax }}{81}{figure.caption.79}
+\contentsline {figure}{\numberline {E.6}{\ignorespaces Cumulative water prediction F12\relax }}{81}{figure.caption.79}
+\contentsline {figure}{\numberline {E.7}{\ignorespaces Cumulative gas prediction F14\relax }}{82}{figure.caption.80}
+\contentsline {figure}{\numberline {E.8}{\ignorespaces Cumulative water prediction F14\relax }}{82}{figure.caption.80}
+\contentsline {figure}{\numberline {E.9}{\ignorespaces Cumulative gas prediction F15\relax }}{82}{figure.caption.81}
+\contentsline {figure}{\numberline {E.10}{\ignorespaces Cumulative water prediction F15\relax }}{82}{figure.caption.81}
+\contentsline {figure}{\numberline {E.11}{\ignorespaces Total oil production by day\relax }}{82}{figure.caption.82}
+\contentsline {figure}{\numberline {E.12}{\ignorespaces Total cumulative oil production\relax }}{83}{figure.caption.83}
+\contentsfinish 

@@ -1,0 +1,23 @@
+\nomenclatureentry{a$D$@[{$D$}]\begingroup Decline rate\nomeqref {0}|nompageref}{xiii}
+\nomenclatureentry{a$b$@[{$b$}]\begingroup  Arps’ decline curve exponent\nomeqref {0}|nompageref}{xiii}
+\nomenclatureentry{a$a$@[{$a$}]\begingroup The number of angels per unit area\nomeqref {0}|nompageref}{xiii}
+\nomenclatureentry{a$N$@[{$N$}]\begingroup The number of angels per needle point\nomeqref {0}|nompageref}{xiii}
+\nomenclatureentry{a$A$@[{$A$}]\begingroup The area of the needle point\nomeqref {0}|nompageref}{xiii}
+\nomenclatureentry{a$\mathbf{X}$@[{$\mathbf{X}$}]\begingroup The input data for machine learning algorithms\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{a$\mathbf{w}$@[{$\mathbf{w}$}]\begingroup The learning parameters for machine learning algorithms\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{a$y$@[{$y$}]\begingroup Actual value of production rate\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aAI@[{AI}]\begingroup Artificial Intelligent\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aDCA@[{DCA}]\begingroup Decline Curve Analysis\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aSEPD@[{SEPD}]\begingroup Stretched Exponential Production Decline\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aLSTM@[{LSTM}]\begingroup Long Short Term Memory\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aGRU@[{GRU}]\begingroup Gated Recurrent Unit\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aRNN@[{RNN}]\begingroup Recurrent Neural Networks\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aXGB@[{XGB}]\begingroup Extreme Gradient Boosting\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aLGBM@[{LGBM}]\begingroup Light Gradient Boosting Machine\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aMLP@[{MLP}]\begingroup Multi Layers Perceptron\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aBHP@[{BHP}]\begingroup Bottom Hole Pressure\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aTHP@[{THP}]\begingroup Tubing Head Pressure\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aBHT@[{BHT}]\begingroup Bottom Hole Temperature\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aWHT@[{WHT}]\begingroup Well Head Temperature\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aDP@[{DP}]\begingroup Different Pressure in casing\nomeqref {0}|nompageref}{xv}
+\nomenclatureentry{aCS@[{CS}]\begingroup Choke Size (Percentage)\nomeqref {0}|nompageref}{xv}

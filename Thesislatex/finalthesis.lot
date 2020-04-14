@@ -1,0 +1,32 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Different values b versus three kinds of decline curve\relax }}{7}{table.caption.6}
+\contentsline {table}{\numberline {1.2}{\ignorespaces Recomedation of b values\relax }}{8}{table.caption.7}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Production profile of Volve filed.\relax }}{21}{table.2.1}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Description of data set\relax }}{35}{table.caption.17}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Score and error of machine learning algorithms on oil\relax }}{40}{table.caption.20}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Pearson correlation of best five algorithms\relax }}{41}{table.caption.21}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Score and error on oil prediction\relax }}{44}{table.caption.25}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Score and error on gas prediction\relax }}{45}{table.caption.26}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Score and error on water prediction\relax }}{45}{table.caption.27}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Pearson correlation of neural networks\relax }}{45}{table.caption.28}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Decline (D) values and time periods\relax }}{49}{table.caption.36}
+\contentsline {table}{\numberline {5.8}{\ignorespaces Cumulative oil production comparison\relax }}{49}{table.caption.37}
+\contentsline {table}{\numberline {5.9}{\ignorespaces Cumulative oil production by well\relax }}{58}{table.caption.48}
+\contentsline {table}{\numberline {5.10}{\ignorespaces Total cumulative oil production and errors\relax }}{60}{table.caption.51}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Sample data for applying machine learning and deep learning\relax }}{70}{table.caption.57}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Hyperparametes to optimize machine learning algorithms\relax }}{71}{table.caption.58}
+\contentsline {table}{\numberline {B.2}{\ignorespaces Hyperparameters to optimize deep learning algorithms\relax }}{72}{table.caption.59}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {C.1}{\ignorespaces Score and error of machine learning algorithms on gas production\relax }}{73}{table.caption.60}
+\contentsline {table}{\numberline {C.2}{\ignorespaces Score and error of machine learning algorithms on water production\relax }}{73}{table.caption.61}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 
